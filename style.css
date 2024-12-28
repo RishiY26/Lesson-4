@@ -1,0 +1,31 @@
+.container-fluid{
+    padding-bottom: 10px;
+}
+.nav-item{
+    color: azure;
+    padding-right: 50px;
+}
+.ml-auto{
+    text-align: right;
+}
+.carousel-inner img{
+    margin-top:65px;
+    width:100%;
+}
+.carousel .carousel-item{
+    height: 800px;
+}
+#gallery-lightbox img{
+    height: 250px;
+}
+#gallery-lightbox img:hover{
+    opacity: 0.8;
+    transition: 0.5s ease-out;
+}
+.modal img{
+    height:300px;
+}
+.where-am-i-img{
+    height:300px;
+    width:500px;
+}
